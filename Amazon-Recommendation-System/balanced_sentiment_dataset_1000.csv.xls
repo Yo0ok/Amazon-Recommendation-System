@@ -1,0 +1,1001 @@
+id,text,label
+1,Everything works better than expected variation 159,positive
+2,High quality and excellent experience variation 28,positive
+3,Very slow and annoying experience variation 27,negative
+4,Waste of money and time variation 89,negative
+5,This is an amazing experience variation 122,positive
+6,I went to school this morning variation 182,normal
+7,Everything works better than expected variation 239,positive
+8,Fantastic performance and design variation 115,positive
+9,It stopped working very quickly variation 85,negative
+10,Full of bugs and crashes variation 86,negative
+11,This is an amazing experience variation 142,positive
+12,Everything works better than expected variation 299,positive
+13,I love this product and it works perfectly variation 1,positive
+14,High quality and excellent experience variation 108,positive
+15,Waste of money and time variation 129,negative
+16,I am very happy with this result variation 134,positive
+17,I hate this product it is useless variation 1,negative
+18,This is an amazing experience variation 72,positive
+19,Excellent quality and great service variation 113,positive
+20,Very bad experience and poor service variation 102,negative
+21,High quality and excellent experience variation 118,positive
+22,Fantastic performance and design variation 275,positive
+23,Everything works better than expected variation 189,positive
+24,Absolutely satisfied with the product variation 50,positive
+25,This is an amazing experience variation 52,positive
+26,The train arrives at 5 PM variation 274,normal
+27,Very slow and annoying experience variation 257,negative
+28,Fantastic performance and design variation 325,positive
+29,I am disappointed with the quality variation 44,negative
+30,Water boils at 100 degrees variation 128,normal
+31,This is the worst thing I used variation 43,negative
+32,He is cooking dinner variation 85,normal
+33,Absolutely satisfied with the product variation 270,positive
+34,Extremely poor quality overall variation 90,negative
+35,Water boils at 100 degrees variation 308,normal
+36,Excellent quality and great service variation 153,positive
+37,This is an amazing experience variation 292,positive
+38,Fantastic performance and design variation 185,positive
+39,They are walking in the street variation 247,normal
+40,Full of bugs and crashes variation 126,negative
+41,Absolutely satisfied with the product variation 10,positive
+42,Fantastic performance and design variation 295,positive
+43,High quality and excellent experience variation 58,positive
+44,Absolutely satisfied with the product variation 330,positive
+45,I went to school this morning variation 202,normal
+46,Customer service was rude variation 278,negative
+47,We visited the museum last week variation 70,normal
+48,I am disappointed with the quality variation 254,negative
+49,Really enjoyed using this variation 196,positive
+50,We visited the museum last week variation 290,normal
+51,This is the worst thing I used variation 333,negative
+52,This is the worst thing I used variation 13,negative
+53,I am disappointed with the quality variation 114,negative
+54,The cat is sleeping on the sofa variation 159,normal
+55,This is an amazing experience variation 312,positive
+56,Really enjoyed using this variation 6,positive
+57,Water boils at 100 degrees variation 108,normal
+58,The train arrives at 5 PM variation 134,normal
+59,Water boils at 100 degrees variation 298,normal
+60,We visited the museum last week variation 230,normal
+61,Customer support is very helpful variation 37,positive
+62,Customer service was rude variation 8,negative
+63,I am very happy with this result variation 194,positive
+64,The sky is clear today variation 191,normal
+65,The cat is sleeping on the sofa variation 219,normal
+66,It stopped working very quickly variation 5,negative
+67,I am disappointed with the quality variation 184,negative
+68,I love this product and it works perfectly variation 91,positive
+69,The meeting is scheduled tomorrow variation 156,normal
+70,This is the worst thing I used variation 133,negative
+71,Full of bugs and crashes variation 116,negative
+72,This is an amazing experience variation 92,positive
+73,I am disappointed with the quality variation 304,negative
+74,Waste of money and time variation 249,negative
+75,Everything works better than expected variation 79,positive
+76,This is an amazing experience variation 32,positive
+77,This is an amazing experience variation 172,positive
+78,We visited the museum last week variation 50,normal
+79,Fantastic performance and design variation 235,positive
+80,I went to school this morning variation 302,normal
+81,Fantastic performance and design variation 245,positive
+82,Water boils at 100 degrees variation 288,normal
+83,Extremely poor quality overall variation 150,negative
+84,Absolutely satisfied with the product variation 240,positive
+85,Fantastic performance and design variation 195,positive
+86,Waste of money and time variation 319,negative
+87,Waste of money and time variation 79,negative
+88,Very slow and annoying experience variation 277,negative
+89,We visited the museum last week variation 170,normal
+90,The meeting is scheduled tomorrow variation 16,normal
+91,He is cooking dinner variation 315,normal
+92,Waste of money and time variation 49,negative
+93,Excellent quality and great service variation 303,positive
+94,Waste of money and time variation 309,negative
+95,Very bad experience and poor service variation 312,negative
+96,Everything works better than expected variation 249,positive
+97,The meeting is scheduled tomorrow variation 216,normal
+98,The cat is sleeping on the sofa variation 9,normal
+99,The cat is sleeping on the sofa variation 89,normal
+100,The meeting is scheduled tomorrow variation 256,normal
+101,We visited the museum last week variation 240,normal
+102,She is reading a book variation 293,normal
+103,This is the worst thing I used variation 63,negative
+104,She is reading a book variation 273,normal
+105,I went to school this morning variation 162,normal
+106,Really enjoyed using this variation 206,positive
+107,I went to school this morning variation 72,normal
+108,Very slow and annoying experience variation 187,negative
+109,I am disappointed with the quality variation 314,negative
+110,This is an amazing experience variation 22,positive
+111,I am disappointed with the quality variation 324,negative
+112,Excellent quality and great service variation 213,positive
+113,Really enjoyed using this variation 156,positive
+114,The meeting is scheduled tomorrow variation 46,normal
+115,We visited the museum last week variation 30,normal
+116,Very slow and annoying experience variation 147,negative
+117,Very bad experience and poor service variation 82,negative
+118,Extremely poor quality overall variation 60,negative
+119,Very bad experience and poor service variation 12,negative
+120,Customer service was rude variation 98,negative
+121,Customer service was rude variation 88,negative
+122,Fantastic performance and design variation 205,positive
+123,They are walking in the street variation 157,normal
+124,The cat is sleeping on the sofa variation 99,normal
+125,They are walking in the street variation 137,normal
+126,Really enjoyed using this variation 136,positive
+127,They are walking in the street variation 7,normal
+128,Full of bugs and crashes variation 66,negative
+129,I am very happy with this result variation 234,positive
+130,I am disappointed with the quality variation 74,negative
+131,The meeting is scheduled tomorrow variation 136,normal
+132,The sky is clear today variation 331,normal
+133,Everything works better than expected variation 119,positive
+134,She is reading a book variation 103,normal
+135,This is an amazing experience variation 162,positive
+136,Excellent quality and great service variation 283,positive
+137,This is the worst thing I used variation 193,negative
+138,Water boils at 100 degrees variation 208,normal
+139,They are walking in the street variation 217,normal
+140,Absolutely satisfied with the product variation 130,positive
+141,Very slow and annoying experience variation 97,negative
+142,The train arrives at 5 PM variation 14,normal
+143,Waste of money and time variation 69,negative
+144,She is reading a book variation 143,normal
+145,He is cooking dinner variation 25,normal
+146,He is cooking dinner variation 285,normal
+147,I am very happy with this result variation 254,positive
+148,This is the worst thing I used variation 283,negative
+149,Water boils at 100 degrees variation 88,normal
+150,I went to school this morning variation 22,normal
+151,Full of bugs and crashes variation 306,negative
+152,Extremely poor quality overall variation 230,negative
+153,The meeting is scheduled tomorrow variation 326,normal
+154,This is the worst thing I used variation 143,negative
+155,The cat is sleeping on the sofa variation 29,normal
+156,Extremely poor quality overall variation 140,negative
+157,High quality and excellent experience variation 208,positive
+158,I am very happy with this result variation 74,positive
+159,The meeting is scheduled tomorrow variation 146,normal
+160,I am disappointed with the quality variation 54,negative
+161,Everything works better than expected variation 19,positive
+162,Customer service was rude variation 268,negative
+163,Customer service was rude variation 118,negative
+164,Customer service was rude variation 48,negative
+165,The meeting is scheduled tomorrow variation 6,normal
+166,He is cooking dinner variation 5,normal
+167,Extremely poor quality overall variation 30,negative
+168,This is an amazing experience variation 182,positive
+169,I went to school this morning variation 312,normal
+170,I went to school this morning variation 112,normal
+171,It stopped working very quickly variation 175,negative
+172,The cat is sleeping on the sofa variation 139,normal
+173,Very bad experience and poor service variation 322,negative
+174,Fantastic performance and design variation 265,positive
+175,It stopped working very quickly variation 155,negative
+176,Extremely poor quality overall variation 300,negative
+177,We visited the museum last week variation 260,normal
+178,Very slow and annoying experience variation 287,negative
+179,Fantastic performance and design variation 85,positive
+180,I am very happy with this result variation 334,positive
+181,Fantastic performance and design variation 45,positive
+182,Very slow and annoying experience variation 217,negative
+183,Fantastic performance and design variation 5,positive
+184,Really enjoyed using this variation 326,positive
+185,The sky is clear today variation 141,normal
+186,He is cooking dinner variation 145,normal
+187,We visited the museum last week variation 140,normal
+188,Really enjoyed using this variation 316,positive
+189,Waste of money and time variation 109,negative
+190,Waste of money and time variation 99,negative
+191,The cat is sleeping on the sofa variation 209,normal
+192,Very bad experience and poor service variation 272,negative
+193,Customer service was rude variation 228,negative
+194,We visited the museum last week variation 320,normal
+195,Extremely poor quality overall variation 310,negative
+196,I hate this product it is useless variation 151,negative
+197,Customer support is very helpful variation 17,positive
+198,Excellent quality and great service variation 273,positive
+199,Customer support is very helpful variation 217,positive
+200,I am disappointed with the quality variation 294,negative
+201,I went to school this morning variation 82,normal
+202,I hate this product it is useless variation 281,negative
+203,Absolutely satisfied with the product variation 100,positive
+204,It stopped working very quickly variation 105,negative
+205,Everything works better than expected variation 89,positive
+206,Water boils at 100 degrees variation 58,normal
+207,Really enjoyed using this variation 266,positive
+208,Absolutely satisfied with the product variation 170,positive
+209,I love this product and it works perfectly variation 311,positive
+210,This is an amazing experience variation 42,positive
+211,I love this product and it works perfectly variation 141,positive
+212,Full of bugs and crashes variation 296,negative
+213,Extremely poor quality overall variation 290,negative
+214,Full of bugs and crashes variation 106,negative
+215,Full of bugs and crashes variation 316,negative
+216,I am disappointed with the quality variation 194,negative
+217,It stopped working very quickly variation 205,negative
+218,I am very happy with this result variation 24,positive
+219,I went to school this morning variation 132,normal
+220,Full of bugs and crashes variation 46,negative
+221,She is reading a book variation 73,normal
+222,Very slow and annoying experience variation 37,negative
+223,Absolutely satisfied with the product variation 110,positive
+224,I love this product and it works perfectly variation 181,positive
+225,The cat is sleeping on the sofa variation 279,normal
+226,The sky is clear today variation 81,normal
+227,He is cooking dinner variation 165,normal
+228,Very bad experience and poor service variation 152,negative
+229,Water boils at 100 degrees variation 218,normal
+230,I am disappointed with the quality variation 214,negative
+231,Everything works better than expected variation 109,positive
+232,Full of bugs and crashes variation 156,negative
+233,Really enjoyed using this variation 186,positive
+234,Water boils at 100 degrees variation 98,normal
+235,The sky is clear today variation 241,normal
+236,High quality and excellent experience variation 98,positive
+237,This is the worst thing I used variation 103,negative
+238,The meeting is scheduled tomorrow variation 246,normal
+239,This is the worst thing I used variation 203,negative
+240,Very bad experience and poor service variation 52,negative
+241,I am very happy with this result variation 64,positive
+242,Really enjoyed using this variation 296,positive
+243,The cat is sleeping on the sofa variation 59,normal
+244,They are walking in the street variation 277,normal
+245,This is an amazing experience variation 302,positive
+246,Really enjoyed using this variation 66,positive
+247,I love this product and it works perfectly variation 211,positive
+248,They are walking in the street variation 317,normal
+249,It stopped working very quickly variation 75,negative
+250,Fantastic performance and design variation 65,positive
+251,I am disappointed with the quality variation 24,negative
+252,She is reading a book variation 153,normal
+253,We visited the museum last week variation 300,normal
+254,I hate this product it is useless variation 81,negative
+255,The train arrives at 5 PM variation 124,normal
+256,Water boils at 100 degrees variation 318,normal
+257,Fantastic performance and design variation 35,positive
+258,I went to school this morning variation 212,normal
+259,She is reading a book variation 313,normal
+260,Absolutely satisfied with the product variation 40,positive
+261,Extremely poor quality overall variation 160,negative
+262,It stopped working very quickly variation 45,negative
+263,This is an amazing experience variation 252,positive
+264,Customer service was rude variation 178,negative
+265,She is reading a book variation 243,normal
+266,Very bad experience and poor service variation 142,negative
+267,Full of bugs and crashes variation 236,negative
+268,Excellent quality and great service variation 223,positive
+269,Excellent quality and great service variation 203,positive
+270,I love this product and it works perfectly variation 41,positive
+271,The train arrives at 5 PM variation 184,normal
+272,I went to school this morning variation 122,normal
+273,Very slow and annoying experience variation 57,negative
+274,Customer support is very helpful variation 177,positive
+275,Excellent quality and great service variation 53,positive
+276,We visited the museum last week variation 130,normal
+277,I went to school this morning variation 242,normal
+278,It stopped working very quickly variation 325,negative
+279,The train arrives at 5 PM variation 4,normal
+280,I am disappointed with the quality variation 64,negative
+281,I am very happy with this result variation 114,positive
+282,He is cooking dinner variation 15,normal
+283,Water boils at 100 degrees variation 198,normal
+284,It stopped working very quickly variation 315,negative
+285,Very bad experience and poor service variation 332,negative
+286,Full of bugs and crashes variation 226,negative
+287,The meeting is scheduled tomorrow variation 286,normal
+288,I am disappointed with the quality variation 174,negative
+289,We visited the museum last week variation 310,normal
+290,High quality and excellent experience variation 138,positive
+291,He is cooking dinner variation 125,normal
+292,He is cooking dinner variation 295,normal
+293,Customer support is very helpful variation 67,positive
+294,High quality and excellent experience variation 158,positive
+295,I am very happy with this result variation 304,positive
+296,He is cooking dinner variation 55,normal
+297,High quality and excellent experience variation 278,positive
+298,This is an amazing experience variation 272,positive
+299,Water boils at 100 degrees variation 188,normal
+300,Absolutely satisfied with the product variation 60,positive
+301,The cat is sleeping on the sofa variation 19,normal
+302,Full of bugs and crashes variation 176,negative
+303,I am disappointed with the quality variation 124,negative
+304,We visited the museum last week variation 210,normal
+305,Customer support is very helpful variation 267,positive
+306,I hate this product it is useless variation 31,negative
+307,Very bad experience and poor service variation 92,negative
+308,The sky is clear today variation 121,normal
+309,I am disappointed with the quality variation 244,negative
+310,Water boils at 100 degrees variation 148,normal
+311,Really enjoyed using this variation 176,positive
+312,I went to school this morning variation 92,normal
+313,Customer support is very helpful variation 257,positive
+314,We visited the museum last week variation 100,normal
+315,She is reading a book variation 203,normal
+316,Water boils at 100 degrees variation 328,normal
+317,I hate this product it is useless variation 201,negative
+318,The cat is sleeping on the sofa variation 289,normal
+319,I am disappointed with the quality variation 154,negative
+320,I went to school this morning variation 192,normal
+321,Customer service was rude variation 128,negative
+322,I love this product and it works perfectly variation 111,positive
+323,I love this product and it works perfectly variation 51,positive
+324,High quality and excellent experience variation 298,positive
+325,Very bad experience and poor service variation 302,negative
+326,We visited the museum last week variation 180,normal
+327,Excellent quality and great service variation 83,positive
+328,Fantastic performance and design variation 25,positive
+329,This is an amazing experience variation 222,positive
+330,Customer support is very helpful variation 127,positive
+331,We visited the museum last week variation 330,normal
+332,I hate this product it is useless variation 71,negative
+333,Everything works better than expected variation 179,positive
+334,Very bad experience and poor service variation 192,negative
+335,I am very happy with this result variation 94,positive
+336,It stopped working very quickly variation 185,negative
+337,The sky is clear today variation 231,normal
+338,This is the worst thing I used variation 33,negative
+339,Water boils at 100 degrees variation 118,normal
+340,I love this product and it works perfectly variation 61,positive
+341,Extremely poor quality overall variation 170,negative
+342,I hate this product it is useless variation 291,negative
+343,We visited the museum last week variation 280,normal
+344,The meeting is scheduled tomorrow variation 106,normal
+345,Extremely poor quality overall variation 260,negative
+346,This is an amazing experience variation 152,positive
+347,The sky is clear today variation 321,normal
+348,They are walking in the street variation 177,normal
+349,The sky is clear today variation 91,normal
+350,This is the worst thing I used variation 273,negative
+351,This is an amazing experience variation 212,positive
+352,I hate this product it is useless variation 101,negative
+353,I love this product and it works perfectly variation 241,positive
+354,Excellent quality and great service variation 233,positive
+355,He is cooking dinner variation 205,normal
+356,Very slow and annoying experience variation 47,negative
+357,Customer support is very helpful variation 307,positive
+358,Absolutely satisfied with the product variation 80,positive
+359,High quality and excellent experience variation 198,positive
+360,The sky is clear today variation 1,normal
+361,Customer support is very helpful variation 317,positive
+362,Full of bugs and crashes variation 216,negative
+363,I love this product and it works perfectly variation 11,positive
+364,Customer service was rude variation 78,negative
+365,Extremely poor quality overall variation 190,negative
+366,Waste of money and time variation 209,negative
+367,The train arrives at 5 PM variation 114,normal
+368,I am disappointed with the quality variation 284,negative
+369,Fantastic performance and design variation 95,positive
+370,Very slow and annoying experience variation 307,negative
+371,This is an amazing experience variation 202,positive
+372,She is reading a book variation 163,normal
+373,The train arrives at 5 PM variation 264,normal
+374,Water boils at 100 degrees variation 268,normal
+375,Customer service was rude variation 238,negative
+376,The sky is clear today variation 31,normal
+377,I love this product and it works perfectly variation 101,positive
+378,I am very happy with this result variation 244,positive
+379,Customer support is very helpful variation 57,positive
+380,Everything works better than expected variation 289,positive
+381,She is reading a book variation 113,normal
+382,Extremely poor quality overall variation 180,negative
+383,The meeting is scheduled tomorrow variation 86,normal
+384,Excellent quality and great service variation 313,positive
+385,Excellent quality and great service variation 13,positive
+386,We visited the museum last week variation 90,normal
+387,Waste of money and time variation 119,negative
+388,Really enjoyed using this variation 26,positive
+389,They are walking in the street variation 267,normal
+390,Extremely poor quality overall variation 50,negative
+391,They are walking in the street variation 167,normal
+392,Waste of money and time variation 189,negative
+393,Everything works better than expected variation 319,positive
+394,I hate this product it is useless variation 231,negative
+395,I am very happy with this result variation 104,positive
+396,The train arrives at 5 PM variation 24,normal
+397,High quality and excellent experience variation 148,positive
+398,She is reading a book variation 63,normal
+399,Water boils at 100 degrees variation 138,normal
+400,It stopped working very quickly variation 195,negative
+401,Customer service was rude variation 158,negative
+402,Customer support is very helpful variation 77,positive
+403,The train arrives at 5 PM variation 64,normal
+404,The meeting is scheduled tomorrow variation 226,normal
+405,Very slow and annoying experience variation 267,negative
+406,The cat is sleeping on the sofa variation 179,normal
+407,Very bad experience and poor service variation 242,negative
+408,Very bad experience and poor service variation 182,negative
+409,I love this product and it works perfectly variation 161,positive
+410,Absolutely satisfied with the product variation 260,positive
+411,The meeting is scheduled tomorrow variation 266,normal
+412,Excellent quality and great service variation 173,positive
+413,The train arrives at 5 PM variation 54,normal
+414,Full of bugs and crashes variation 246,negative
+415,This is the worst thing I used variation 323,negative
+416,They are walking in the street variation 17,normal
+417,I went to school this morning variation 232,normal
+418,Very bad experience and poor service variation 62,negative
+419,Water boils at 100 degrees variation 168,normal
+420,I am very happy with this result variation 264,positive
+421,I hate this product it is useless variation 161,negative
+422,High quality and excellent experience variation 18,positive
+423,This is the worst thing I used variation 313,negative
+424,Very slow and annoying experience variation 327,negative
+425,I am very happy with this result variation 34,positive
+426,The sky is clear today variation 211,normal
+427,Extremely poor quality overall variation 210,negative
+428,We visited the museum last week variation 150,normal
+429,Customer support is very helpful variation 87,positive
+430,She is reading a book variation 303,normal
+431,High quality and excellent experience variation 288,positive
+432,Extremely poor quality overall variation 110,negative
+433,Full of bugs and crashes variation 186,negative
+434,I went to school this morning variation 52,normal
+435,The sky is clear today variation 61,normal
+436,Really enjoyed using this variation 86,positive
+437,The cat is sleeping on the sofa variation 79,normal
+438,Extremely poor quality overall variation 270,negative
+439,The cat is sleeping on the sofa variation 319,normal
+440,It stopped working very quickly variation 165,negative
+441,This is the worst thing I used variation 293,negative
+442,The meeting is scheduled tomorrow variation 116,normal
+443,This is an amazing experience variation 112,positive
+444,I hate this product it is useless variation 321,negative
+445,Full of bugs and crashes variation 136,negative
+446,I am very happy with this result variation 284,positive
+447,They are walking in the street variation 227,normal
+448,Very slow and annoying experience variation 77,negative
+449,Excellent quality and great service variation 333,positive
+450,Very bad experience and poor service variation 292,negative
+451,It stopped working very quickly variation 235,negative
+452,I love this product and it works perfectly variation 31,positive
+453,I went to school this morning variation 322,normal
+454,High quality and excellent experience variation 218,positive
+455,Very slow and annoying experience variation 7,negative
+456,The cat is sleeping on the sofa variation 69,normal
+457,Very bad experience and poor service variation 262,negative
+458,The sky is clear today variation 11,normal
+459,She is reading a book variation 183,normal
+460,High quality and excellent experience variation 228,positive
+461,It stopped working very quickly variation 15,negative
+462,We visited the museum last week variation 270,normal
+463,They are walking in the street variation 127,normal
+464,The train arrives at 5 PM variation 34,normal
+465,Customer support is very helpful variation 147,positive
+466,He is cooking dinner variation 65,normal
+467,The train arrives at 5 PM variation 104,normal
+468,Very bad experience and poor service variation 252,negative
+469,The sky is clear today variation 291,normal
+470,I am very happy with this result variation 294,positive
+471,The train arrives at 5 PM variation 94,normal
+472,Excellent quality and great service variation 143,positive
+473,Really enjoyed using this variation 106,positive
+474,Excellent quality and great service variation 63,positive
+475,Absolutely satisfied with the product variation 280,positive
+476,Fantastic performance and design variation 155,positive
+477,They are walking in the street variation 57,normal
+478,Really enjoyed using this variation 216,positive
+479,The meeting is scheduled tomorrow variation 196,normal
+480,Everything works better than expected variation 39,positive
+481,Very bad experience and poor service variation 222,negative
+482,Fantastic performance and design variation 215,positive
+483,We visited the museum last week variation 110,normal
+484,The meeting is scheduled tomorrow variation 56,normal
+485,This is an amazing experience variation 262,positive
+486,She is reading a book variation 193,normal
+487,Very slow and annoying experience variation 87,negative
+488,High quality and excellent experience variation 48,positive
+489,I am disappointed with the quality variation 224,negative
+490,I hate this product it is useless variation 211,negative
+491,This is the worst thing I used variation 173,negative
+492,I am disappointed with the quality variation 34,negative
+493,Full of bugs and crashes variation 266,negative
+494,She is reading a book variation 173,normal
+495,She is reading a book variation 263,normal
+496,I hate this product it is useless variation 301,negative
+497,This is an amazing experience variation 282,positive
+498,Very bad experience and poor service variation 212,negative
+499,I hate this product it is useless variation 51,negative
+500,Absolutely satisfied with the product variation 20,positive
+501,She is reading a book variation 53,normal
+502,Waste of money and time variation 159,negative
+503,I went to school this morning variation 32,normal
+504,I hate this product it is useless variation 41,negative
+505,I am very happy with this result variation 44,positive
+506,Extremely poor quality overall variation 20,negative
+507,Very bad experience and poor service variation 162,negative
+508,Very bad experience and poor service variation 232,negative
+509,Customer support is very helpful variation 97,positive
+510,He is cooking dinner variation 275,normal
+511,The cat is sleeping on the sofa variation 259,normal
+512,Very bad experience and poor service variation 42,negative
+513,The train arrives at 5 PM variation 154,normal
+514,Everything works better than expected variation 49,positive
+515,The sky is clear today variation 261,normal
+516,Waste of money and time variation 169,negative
+517,Waste of money and time variation 199,negative
+518,Full of bugs and crashes variation 196,negative
+519,We visited the museum last week variation 250,normal
+520,High quality and excellent experience variation 178,positive
+521,Really enjoyed using this variation 76,positive
+522,The meeting is scheduled tomorrow variation 36,normal
+523,I hate this product it is useless variation 131,negative
+524,They are walking in the street variation 37,normal
+525,Extremely poor quality overall variation 10,negative
+526,I love this product and it works perfectly variation 21,positive
+527,Water boils at 100 degrees variation 48,normal
+528,I love this product and it works perfectly variation 321,positive
+529,Excellent quality and great service variation 183,positive
+530,Absolutely satisfied with the product variation 180,positive
+531,Customer support is very helpful variation 107,positive
+532,The train arrives at 5 PM variation 84,normal
+533,High quality and excellent experience variation 188,positive
+534,It stopped working very quickly variation 65,negative
+535,Everything works better than expected variation 139,positive
+536,The train arrives at 5 PM variation 224,normal
+537,Excellent quality and great service variation 323,positive
+538,Extremely poor quality overall variation 220,negative
+539,This is the worst thing I used variation 53,negative
+540,She is reading a book variation 33,normal
+541,Customer service was rude variation 258,negative
+542,This is an amazing experience variation 62,positive
+543,Fantastic performance and design variation 225,positive
+544,I hate this product it is useless variation 61,negative
+545,She is reading a book variation 13,normal
+546,Water boils at 100 degrees variation 238,normal
+547,Customer support is very helpful variation 277,positive
+548,Customer service was rude variation 58,negative
+549,This is the worst thing I used variation 223,negative
+550,Water boils at 100 degrees variation 28,normal
+551,I hate this product it is useless variation 311,negative
+552,This is the worst thing I used variation 253,negative
+553,I am very happy with this result variation 274,positive
+554,I am disappointed with the quality variation 264,negative
+555,Excellent quality and great service variation 93,positive
+556,Full of bugs and crashes variation 26,negative
+557,Customer support is very helpful variation 287,positive
+558,Absolutely satisfied with the product variation 200,positive
+559,Very slow and annoying experience variation 167,negative
+560,Excellent quality and great service variation 43,positive
+561,Customer service was rude variation 138,negative
+562,Full of bugs and crashes variation 96,negative
+563,She is reading a book variation 93,normal
+564,Waste of money and time variation 59,negative
+565,I hate this product it is useless variation 111,negative
+566,Absolutely satisfied with the product variation 90,positive
+567,I love this product and it works perfectly variation 171,positive
+568,Customer service was rude variation 68,negative
+569,He is cooking dinner variation 135,normal
+570,Full of bugs and crashes variation 326,negative
+571,High quality and excellent experience variation 38,positive
+572,High quality and excellent experience variation 128,positive
+573,Really enjoyed using this variation 96,positive
+574,Customer service was rude variation 198,negative
+575,I hate this product it is useless variation 11,negative
+576,Waste of money and time variation 149,negative
+577,Fantastic performance and design variation 75,positive
+578,I love this product and it works perfectly variation 81,positive
+579,I went to school this morning variation 62,normal
+580,I hate this product it is useless variation 91,negative
+581,Excellent quality and great service variation 73,positive
+582,I went to school this morning variation 292,normal
+583,The sky is clear today variation 301,normal
+584,He is cooking dinner variation 75,normal
+585,Waste of money and time variation 9,negative
+586,I am disappointed with the quality variation 234,negative
+587,I am disappointed with the quality variation 94,negative
+588,This is the worst thing I used variation 303,negative
+589,I love this product and it works perfectly variation 121,positive
+590,Extremely poor quality overall variation 70,negative
+591,I hate this product it is useless variation 21,negative
+592,She is reading a book variation 233,normal
+593,Absolutely satisfied with the product variation 320,positive
+594,The meeting is scheduled tomorrow variation 166,normal
+595,They are walking in the street variation 67,normal
+596,He is cooking dinner variation 235,normal
+597,Very slow and annoying experience variation 227,negative
+598,Excellent quality and great service variation 3,positive
+599,High quality and excellent experience variation 258,positive
+600,He is cooking dinner variation 105,normal
+601,Very slow and annoying experience variation 237,negative
+602,He is cooking dinner variation 35,normal
+603,The train arrives at 5 PM variation 44,normal
+604,The cat is sleeping on the sofa variation 189,normal
+605,The meeting is scheduled tomorrow variation 126,normal
+606,Everything works better than expected variation 209,positive
+607,We visited the museum last week variation 220,normal
+608,I am very happy with this result variation 84,positive
+609,Very bad experience and poor service variation 2,negative
+610,The sky is clear today variation 131,normal
+611,I love this product and it works perfectly variation 131,positive
+612,He is cooking dinner variation 155,normal
+613,She is reading a book variation 123,normal
+614,Customer service was rude variation 148,negative
+615,The meeting is scheduled tomorrow variation 236,normal
+616,Water boils at 100 degrees variation 8,normal
+617,Very slow and annoying experience variation 197,negative
+618,High quality and excellent experience variation 328,positive
+619,Extremely poor quality overall variation 40,negative
+620,They are walking in the street variation 27,normal
+621,I hate this product it is useless variation 331,negative
+622,Fantastic performance and design variation 175,positive
+623,Very slow and annoying experience variation 297,negative
+624,She is reading a book variation 253,normal
+625,Very bad experience and poor service variation 172,negative
+626,I hate this product it is useless variation 241,negative
+627,The train arrives at 5 PM variation 164,normal
+628,The sky is clear today variation 311,normal
+629,They are walking in the street variation 77,normal
+630,She is reading a book variation 43,normal
+631,They are walking in the street variation 307,normal
+632,Absolutely satisfied with the product variation 210,positive
+633,We visited the museum last week variation 40,normal
+634,I went to school this morning variation 12,normal
+635,Customer support is very helpful variation 247,positive
+636,I love this product and it works perfectly variation 281,positive
+637,I am very happy with this result variation 324,positive
+638,Very bad experience and poor service variation 202,negative
+639,He is cooking dinner variation 245,normal
+640,The train arrives at 5 PM variation 254,normal
+641,High quality and excellent experience variation 78,positive
+642,High quality and excellent experience variation 68,positive
+643,Everything works better than expected variation 229,positive
+644,The train arrives at 5 PM variation 284,normal
+645,Waste of money and time variation 279,negative
+646,Customer support is very helpful variation 227,positive
+647,Very bad experience and poor service variation 112,negative
+648,I hate this product it is useless variation 181,negative
+649,Water boils at 100 degrees variation 18,normal
+650,We visited the museum last week variation 80,normal
+651,Customer service was rude variation 28,negative
+652,I love this product and it works perfectly variation 331,positive
+653,I am very happy with this result variation 154,positive
+654,It stopped working very quickly variation 275,negative
+655,I love this product and it works perfectly variation 231,positive
+656,This is the worst thing I used variation 153,negative
+657,It stopped working very quickly variation 295,negative
+658,The cat is sleeping on the sofa variation 49,normal
+659,The sky is clear today variation 51,normal
+660,The cat is sleeping on the sofa variation 119,normal
+661,This is an amazing experience variation 132,positive
+662,I love this product and it works perfectly variation 71,positive
+663,They are walking in the street variation 97,normal
+664,Absolutely satisfied with the product variation 310,positive
+665,I am disappointed with the quality variation 104,negative
+666,The cat is sleeping on the sofa variation 299,normal
+667,Customer service was rude variation 298,negative
+668,The cat is sleeping on the sofa variation 169,normal
+669,It stopped working very quickly variation 305,negative
+670,They are walking in the street variation 147,normal
+671,High quality and excellent experience variation 318,positive
+672,He is cooking dinner variation 185,normal
+673,It stopped working very quickly variation 225,negative
+674,Waste of money and time variation 39,negative
+675,Excellent quality and great service variation 23,positive
+676,She is reading a book variation 333,normal
+677,I love this product and it works perfectly variation 261,positive
+678,Customer support is very helpful variation 327,positive
+679,I am very happy with this result variation 124,positive
+680,Very slow and annoying experience variation 207,negative
+681,High quality and excellent experience variation 238,positive
+682,We visited the museum last week variation 120,normal
+683,The train arrives at 5 PM variation 294,normal
+684,This is the worst thing I used variation 213,negative
+685,Waste of money and time variation 29,negative
+686,Everything works better than expected variation 69,positive
+687,The meeting is scheduled tomorrow variation 306,normal
+688,I went to school this morning variation 282,normal
+689,They are walking in the street variation 117,normal
+690,I am very happy with this result variation 174,positive
+691,Really enjoyed using this variation 46,positive
+692,I love this product and it works perfectly variation 291,positive
+693,The train arrives at 5 PM variation 234,normal
+694,This is the worst thing I used variation 83,negative
+695,I hate this product it is useless variation 171,negative
+696,I am very happy with this result variation 224,positive
+697,Extremely poor quality overall variation 130,negative
+698,Water boils at 100 degrees variation 228,normal
+699,The train arrives at 5 PM variation 174,normal
+700,Full of bugs and crashes variation 56,negative
+701,The train arrives at 5 PM variation 214,normal
+702,We visited the museum last week variation 10,normal
+703,The sky is clear today variation 271,normal
+704,It stopped working very quickly variation 95,negative
+705,The train arrives at 5 PM variation 204,normal
+706,Excellent quality and great service variation 193,positive
+707,They are walking in the street variation 297,normal
+708,The train arrives at 5 PM variation 314,normal
+709,Fantastic performance and design variation 105,positive
+710,Water boils at 100 degrees variation 68,normal
+711,Really enjoyed using this variation 146,positive
+712,Full of bugs and crashes variation 286,negative
+713,This is an amazing experience variation 82,positive
+714,She is reading a book variation 83,normal
+715,Full of bugs and crashes variation 16,negative
+716,He is cooking dinner variation 255,normal
+717,Water boils at 100 degrees variation 248,normal
+718,She is reading a book variation 133,normal
+719,I hate this product it is useless variation 191,negative
+720,I love this product and it works perfectly variation 191,positive
+721,Absolutely satisfied with the product variation 220,positive
+722,High quality and excellent experience variation 308,positive
+723,I went to school this morning variation 102,normal
+724,Very slow and annoying experience variation 107,negative
+725,The meeting is scheduled tomorrow variation 316,normal
+726,The sky is clear today variation 181,normal
+727,They are walking in the street variation 287,normal
+728,Customer service was rude variation 288,negative
+729,Customer service was rude variation 108,negative
+730,Customer service was rude variation 188,negative
+731,Absolutely satisfied with the product variation 230,positive
+732,I am disappointed with the quality variation 144,negative
+733,Very slow and annoying experience variation 67,negative
+734,This is the worst thing I used variation 3,negative
+735,They are walking in the street variation 237,normal
+736,This is an amazing experience variation 322,positive
+737,The sky is clear today variation 171,normal
+738,Customer support is very helpful variation 137,positive
+739,He is cooking dinner variation 175,normal
+740,Customer service was rude variation 208,negative
+741,I love this product and it works perfectly variation 271,positive
+742,Customer service was rude variation 308,negative
+743,I went to school this morning variation 42,normal
+744,Customer support is very helpful variation 187,positive
+745,Fantastic performance and design variation 285,positive
+746,Really enjoyed using this variation 226,positive
+747,It stopped working very quickly variation 265,negative
+748,Fantastic performance and design variation 55,positive
+749,This is the worst thing I used variation 183,negative
+750,Excellent quality and great service variation 133,positive
+751,It stopped working very quickly variation 145,negative
+752,Waste of money and time variation 259,negative
+753,Extremely poor quality overall variation 330,negative
+754,The cat is sleeping on the sofa variation 249,normal
+755,Really enjoyed using this variation 306,positive
+756,Everything works better than expected variation 309,positive
+757,They are walking in the street variation 187,normal
+758,Full of bugs and crashes variation 36,negative
+759,Full of bugs and crashes variation 276,negative
+760,I am disappointed with the quality variation 134,negative
+761,The cat is sleeping on the sofa variation 149,normal
+762,Fantastic performance and design variation 305,positive
+763,I am disappointed with the quality variation 274,negative
+764,Everything works better than expected variation 169,positive
+765,Customer support is very helpful variation 197,positive
+766,I am very happy with this result variation 204,positive
+767,I hate this product it is useless variation 121,negative
+768,The train arrives at 5 PM variation 144,normal
+769,This is an amazing experience variation 332,positive
+770,He is cooking dinner variation 325,normal
+771,Extremely poor quality overall variation 100,negative
+772,Absolutely satisfied with the product variation 160,positive
+773,Water boils at 100 degrees variation 178,normal
+774,I am very happy with this result variation 144,positive
+775,The sky is clear today variation 101,normal
+776,They are walking in the street variation 107,normal
+777,This is an amazing experience variation 232,positive
+778,The meeting is scheduled tomorrow variation 66,normal
+779,She is reading a book variation 323,normal
+780,I hate this product it is useless variation 141,negative
+781,They are walking in the street variation 207,normal
+782,Excellent quality and great service variation 253,positive
+783,Very slow and annoying experience variation 117,negative
+784,Fantastic performance and design variation 125,positive
+785,It stopped working very quickly variation 135,negative
+786,The cat is sleeping on the sofa variation 109,normal
+787,Water boils at 100 degrees variation 38,normal
+788,Very slow and annoying experience variation 317,negative
+789,Absolutely satisfied with the product variation 190,positive
+790,The sky is clear today variation 281,normal
+791,Excellent quality and great service variation 293,positive
+792,High quality and excellent experience variation 268,positive
+793,Customer service was rude variation 18,negative
+794,This is the worst thing I used variation 233,negative
+795,Excellent quality and great service variation 33,positive
+796,Waste of money and time variation 329,negative
+797,Fantastic performance and design variation 165,positive
+798,She is reading a book variation 23,normal
+799,Really enjoyed using this variation 286,positive
+800,Really enjoyed using this variation 56,positive
+801,Everything works better than expected variation 129,positive
+802,Full of bugs and crashes variation 256,negative
+803,The sky is clear today variation 41,normal
+804,The train arrives at 5 PM variation 244,normal
+805,The sky is clear today variation 251,normal
+806,I am disappointed with the quality variation 84,negative
+807,Very bad experience and poor service variation 72,negative
+808,Waste of money and time variation 299,negative
+809,Excellent quality and great service variation 103,positive
+810,I love this product and it works perfectly variation 201,positive
+811,Customer support is very helpful variation 47,positive
+812,Waste of money and time variation 139,negative
+813,Water boils at 100 degrees variation 278,normal
+814,Really enjoyed using this variation 16,positive
+815,The sky is clear today variation 71,normal
+816,Excellent quality and great service variation 123,positive
+817,I hate this product it is useless variation 221,negative
+818,Absolutely satisfied with the product variation 300,positive
+819,He is cooking dinner variation 305,normal
+820,I am very happy with this result variation 314,positive
+821,We visited the museum last week variation 20,normal
+822,The cat is sleeping on the sofa variation 229,normal
+823,The cat is sleeping on the sofa variation 129,normal
+824,Waste of money and time variation 179,negative
+825,Fantastic performance and design variation 145,positive
+826,I went to school this morning variation 272,normal
+827,Water boils at 100 degrees variation 158,normal
+828,The cat is sleeping on the sofa variation 269,normal
+829,Customer support is very helpful variation 7,positive
+830,He is cooking dinner variation 195,normal
+831,I love this product and it works perfectly variation 301,positive
+832,I am very happy with this result variation 14,positive
+833,I am disappointed with the quality variation 164,negative
+834,Very bad experience and poor service variation 22,negative
+835,We visited the museum last week variation 200,normal
+836,The meeting is scheduled tomorrow variation 186,normal
+837,Fantastic performance and design variation 15,positive
+838,Excellent quality and great service variation 163,positive
+839,I am very happy with this result variation 54,positive
+840,They are walking in the street variation 87,normal
+841,Water boils at 100 degrees variation 258,normal
+842,She is reading a book variation 3,normal
+843,They are walking in the street variation 257,normal
+844,This is an amazing experience variation 242,positive
+845,Absolutely satisfied with the product variation 120,positive
+846,Customer service was rude variation 168,negative
+847,Very slow and annoying experience variation 177,negative
+848,The cat is sleeping on the sofa variation 199,normal
+849,It stopped working very quickly variation 245,negative
+850,We visited the museum last week variation 60,normal
+851,Extremely poor quality overall variation 320,negative
+852,Customer support is very helpful variation 157,positive
+853,We visited the museum last week variation 160,normal
+854,Customer support is very helpful variation 297,positive
+855,Water boils at 100 degrees variation 78,normal
+856,The cat is sleeping on the sofa variation 39,normal
+857,Very slow and annoying experience variation 137,negative
+858,Really enjoyed using this variation 116,positive
+859,Everything works better than expected variation 59,positive
+860,Waste of money and time variation 239,negative
+861,Full of bugs and crashes variation 166,negative
+862,I went to school this morning variation 152,normal
+863,Extremely poor quality overall variation 120,negative
+864,I hate this product it is useless variation 261,negative
+865,Everything works better than expected variation 9,positive
+866,Extremely poor quality overall variation 280,negative
+867,It stopped working very quickly variation 125,negative
+868,Really enjoyed using this variation 256,positive
+869,This is the worst thing I used variation 163,negative
+870,Really enjoyed using this variation 126,positive
+871,Really enjoyed using this variation 276,positive
+872,Everything works better than expected variation 199,positive
+873,Waste of money and time variation 219,negative
+874,Absolutely satisfied with the product variation 30,positive
+875,He is cooking dinner variation 225,normal
+876,The sky is clear today variation 201,normal
+877,Very bad experience and poor service variation 282,negative
+878,The cat is sleeping on the sofa variation 309,normal
+879,I am very happy with this result variation 184,positive
+880,Full of bugs and crashes variation 206,negative
+881,Everything works better than expected variation 269,positive
+882,The meeting is scheduled tomorrow variation 26,normal
+883,I love this product and it works perfectly variation 221,positive
+884,The meeting is scheduled tomorrow variation 276,normal
+885,He is cooking dinner variation 265,normal
+886,This is the worst thing I used variation 113,negative
+887,Very slow and annoying experience variation 247,negative
+888,Very slow and annoying experience variation 127,negative
+889,Everything works better than expected variation 279,positive
+890,It stopped working very quickly variation 25,negative
+891,Everything works better than expected variation 259,positive
+892,She is reading a book variation 213,normal
+893,Extremely poor quality overall variation 240,negative
+894,The train arrives at 5 PM variation 324,normal
+895,Full of bugs and crashes variation 76,negative
+896,Customer service was rude variation 318,negative
+897,Customer support is very helpful variation 27,positive
+898,Everything works better than expected variation 99,positive
+899,Full of bugs and crashes variation 146,negative
+900,Very bad experience and poor service variation 32,negative
+901,I love this product and it works perfectly variation 251,positive
+902,They are walking in the street variation 327,normal
+903,I am disappointed with the quality variation 4,negative
+904,I am very happy with this result variation 4,positive
+905,This is an amazing experience variation 102,positive
+906,The sky is clear today variation 21,normal
+907,Absolutely satisfied with the product variation 150,positive
+908,She is reading a book variation 223,normal
+909,Customer service was rude variation 248,negative
+910,Full of bugs and crashes variation 6,negative
+911,The sky is clear today variation 161,normal
+912,Excellent quality and great service variation 263,positive
+913,The train arrives at 5 PM variation 74,normal
+914,Excellent quality and great service variation 243,positive
+915,He is cooking dinner variation 45,normal
+916,She is reading a book variation 283,normal
+917,Absolutely satisfied with the product variation 250,positive
+918,Really enjoyed using this variation 36,positive
+919,Absolutely satisfied with the product variation 140,positive
+920,I am very happy with this result variation 214,positive
+921,Extremely poor quality overall variation 80,negative
+922,The meeting is scheduled tomorrow variation 176,normal
+923,Customer support is very helpful variation 117,positive
+924,This is the worst thing I used variation 263,negative
+925,I went to school this morning variation 252,normal
+926,Waste of money and time variation 289,negative
+927,High quality and excellent experience variation 88,positive
+928,The sky is clear today variation 221,normal
+929,I hate this product it is useless variation 251,negative
+930,The meeting is scheduled tomorrow variation 76,normal
+931,It stopped working very quickly variation 255,negative
+932,Really enjoyed using this variation 236,positive
+933,Customer support is very helpful variation 207,positive
+934,The cat is sleeping on the sofa variation 329,normal
+935,Fantastic performance and design variation 135,positive
+936,Customer support is very helpful variation 167,positive
+937,I hate this product it is useless variation 271,negative
+938,It stopped working very quickly variation 35,negative
+939,The train arrives at 5 PM variation 194,normal
+940,Fantastic performance and design variation 315,positive
+941,Customer service was rude variation 328,negative
+942,Extremely poor quality overall variation 200,negative
+943,Very bad experience and poor service variation 132,negative
+944,Everything works better than expected variation 29,positive
+945,It stopped working very quickly variation 115,negative
+946,I am very happy with this result variation 164,positive
+947,They are walking in the street variation 197,normal
+948,He is cooking dinner variation 215,normal
+949,The meeting is scheduled tomorrow variation 96,normal
+950,I went to school this morning variation 222,normal
+951,I love this product and it works perfectly variation 151,positive
+952,I went to school this morning variation 262,normal
+953,The sky is clear today variation 151,normal
+954,I am disappointed with the quality variation 204,negative
+955,I went to school this morning variation 332,normal
+956,High quality and excellent experience variation 248,positive
+957,I am disappointed with the quality variation 14,negative
+958,Waste of money and time variation 269,negative
+959,The cat is sleeping on the sofa variation 239,normal
+960,The train arrives at 5 PM variation 304,normal
+961,The meeting is scheduled tomorrow variation 296,normal
+962,It stopped working very quickly variation 215,negative
+963,Everything works better than expected variation 149,positive
+964,Very bad experience and poor service variation 122,negative
+965,Customer service was rude variation 38,negative
+966,Really enjoyed using this variation 246,positive
+967,Everything works better than expected variation 219,positive
+968,Very slow and annoying experience variation 157,negative
+969,Customer support is very helpful variation 237,positive
+970,They are walking in the street variation 47,normal
+971,Absolutely satisfied with the product variation 70,positive
+972,We visited the museum last week variation 190,normal
+973,Waste of money and time variation 19,negative
+974,The sky is clear today variation 111,normal
+975,This is the worst thing I used variation 23,negative
+976,This is an amazing experience variation 192,positive
+977,Absolutely satisfied with the product variation 290,positive
+978,Fantastic performance and design variation 255,positive
+979,He is cooking dinner variation 115,normal
+980,It stopped working very quickly variation 285,negative
+981,Very slow and annoying experience variation 17,negative
+982,It stopped working very quickly variation 55,negative
+983,Customer service was rude variation 218,negative
+984,I went to school this morning variation 172,normal
+985,Really enjoyed using this variation 166,positive
+986,This is the worst thing I used variation 93,negative
+987,This is the worst thing I used variation 243,negative
+988,High quality and excellent experience variation 168,positive
+989,Extremely poor quality overall variation 250,negative
+990,This is the worst thing I used variation 73,negative
+991,High quality and excellent experience variation 8,positive
+992,I went to school this morning variation 142,normal
+993,Everything works better than expected variation 329,positive
+994,I went to school this morning variation 2,normal
+995,He is cooking dinner variation 95,normal
+996,This is an amazing experience variation 12,positive
+997,Waste of money and time variation 229,negative
+998,This is an amazing experience variation 2,positive
+999,The meeting is scheduled tomorrow variation 206,normal
+1000,This is the worst thing I used variation 123,negative
